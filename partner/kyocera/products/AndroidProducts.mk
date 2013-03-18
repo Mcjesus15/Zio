@@ -1,3 +1,3 @@
 PRODUCT_MAKEFILES := \
-$(LOCAL_DIR)/M6000.mk
-$(LOCAL_DIR)/Zio.mk
+$(LOCAL_DIR)/device_M6000.mk
+
